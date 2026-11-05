@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://olm.vn/thu-vien-so/doc-sach/bang-thuat-ngu-song-ngu-toan-6-tap-1-phan-2.5223994188",
+  "coverSource": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1006/5223994188-page-1-1791278839342.png",
+  "title": "Bảng thuật ngữ song ngữ Toán 6 tập 1 phần 2",
+  "id": "5223994188",
+  "grade": 6,
+  "role": "student",
+  "totalPages": 11,
+  "downloadEnabled": false,
+  "pages": [
+    {
+      "number": 1,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1006/5223994188-page-1-1791278839342.png",
+      "path": "assets/5223994188/page-0001-ee4407447b84.png",
+      "bytes": 208070,
+      "sha256": "bd12116da0a9ad9a9e741bf9c2b4bfb55daa673617be187d83545e0e05c99741"
+    },
+    {
+      "number": 2,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1006/5223994188-page-2-1791278840140.png"
+    },
+    {
+      "number": 3,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1006/5223994188-page-3-1791278840718.png"
+    },
+    {
+      "number": 4,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1006/5223994188-page-4-1791278841174.png"
+    },
+    {
+      "number": 5,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1006/5223994188-page-5-1791278841891.png"
+    },
+    {
+      "number": 6,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1006/5223994188-page-6-1791278842535.png"
+    },
+    {
+      "number": 7,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1006/5223994188-page-7-1791278842999.png"
+    },
+    {
+      "number": 8,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1006/5223994188-page-8-1791278843527.png"
+    },
+    {
+      "number": 9,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1006/5223994188-page-9-1791278844094.png"
+    },
+    {
+      "number": 10,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1006/5223994188-page-10-1791278844597.png"
+    },
+    {
+      "number": 11,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1006/5223994188-page-11-1791278845059.png"
+    }
+  ],
+  "covers": {
+    "first": {
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1006/5223994188-page-1-1791278839342.png",
+      "path": "assets/5223994188/cover-first-ee4407447b84.png",
+      "bytes": 208070,
+      "sha256": "bd12116da0a9ad9a9e741bf9c2b4bfb55daa673617be187d83545e0e05c99741"
+    }
+  },
+  "metadataComplete": true,
+  "offlineComplete": false
+}

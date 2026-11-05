@@ -1,0 +1,209 @@
+{
+  "source": "https://olm.vn/thu-vien-so/sach-giao-khoa",
+  "syncedAt": "2026-11-05T17:17:26.332098+00:00",
+  "grades": [
+    2,
+    1,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "assetGrades": [
+    2,
+    1,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "listings": [
+    {
+      "grade": 2,
+      "role": "student",
+      "count": 14,
+      "sourceUrl": "https://olm.vn/api/thu-vien-so/render-list-books?grade=2&role=student"
+    },
+    {
+      "grade": 2,
+      "role": "teacher",
+      "count": 9,
+      "sourceUrl": "https://olm.vn/api/thu-vien-so/render-list-books?grade=2&role=teacher"
+    },
+    {
+      "grade": 1,
+      "role": "student",
+      "count": 12,
+      "sourceUrl": "https://olm.vn/api/thu-vien-so/render-list-books?grade=1&role=student"
+    },
+    {
+      "grade": 1,
+      "role": "teacher",
+      "count": 9,
+      "sourceUrl": "https://olm.vn/api/thu-vien-so/render-list-books?grade=1&role=teacher"
+    },
+    {
+      "grade": 3,
+      "role": "student",
+      "count": 30,
+      "sourceUrl": "https://olm.vn/api/thu-vien-so/render-list-books?grade=3&role=student"
+    },
+    {
+      "grade": 3,
+      "role": "teacher",
+      "count": 11,
+      "sourceUrl": "https://olm.vn/api/thu-vien-so/render-list-books?grade=3&role=teacher"
+    },
+    {
+      "grade": 4,
+      "role": "student",
+      "count": 30,
+      "sourceUrl": "https://olm.vn/api/thu-vien-so/render-list-books?grade=4&role=student"
+    },
+    {
+      "grade": 4,
+      "role": "teacher",
+      "count": 12,
+      "sourceUrl": "https://olm.vn/api/thu-vien-so/render-list-books?grade=4&role=teacher"
+    },
+    {
+      "grade": 5,
+      "role": "student",
+      "count": 25,
+      "sourceUrl": "https://olm.vn/api/thu-vien-so/render-list-books?grade=5&role=student"
+    },
+    {
+      "grade": 5,
+      "role": "teacher",
+      "count": 12,
+      "sourceUrl": "https://olm.vn/api/thu-vien-so/render-list-books?grade=5&role=teacher"
+    },
+    {
+      "grade": 6,
+      "role": "student",
+      "count": 27,
+      "sourceUrl": "https://olm.vn/api/thu-vien-so/render-list-books?grade=6&role=student"
+    },
+    {
+      "grade": 6,
+      "role": "teacher",
+      "count": 12,
+      "sourceUrl": "https://olm.vn/api/thu-vien-so/render-list-books?grade=6&role=teacher"
+    },
+    {
+      "grade": 7,
+      "role": "student",
+      "count": 24,
+      "sourceUrl": "https://olm.vn/api/thu-vien-so/render-list-books?grade=7&role=student"
+    },
+    {
+      "grade": 7,
+      "role": "teacher",
+      "count": 12,
+      "sourceUrl": "https://olm.vn/api/thu-vien-so/render-list-books?grade=7&role=teacher"
+    },
+    {
+      "grade": 8,
+      "role": "student",
+      "count": 20,
+      "sourceUrl": "https://olm.vn/api/thu-vien-so/render-list-books?grade=8&role=student"
+    },
+    {
+      "grade": 8,
+      "role": "teacher",
+      "count": 12,
+      "sourceUrl": "https://olm.vn/api/thu-vien-so/render-list-books?grade=8&role=teacher"
+    },
+    {
+      "grade": 9,
+      "role": "student",
+      "count": 22,
+      "sourceUrl": "https://olm.vn/api/thu-vien-so/render-list-books?grade=9&role=student"
+    },
+    {
+      "grade": 9,
+      "role": "teacher",
+      "count": 15,
+      "sourceUrl": "https://olm.vn/api/thu-vien-so/render-list-books?grade=9&role=teacher"
+    },
+    {
+      "grade": 10,
+      "role": "student",
+      "count": 49,
+      "sourceUrl": "https://olm.vn/api/thu-vien-so/render-list-books?grade=10&role=student"
+    },
+    {
+      "grade": 10,
+      "role": "teacher",
+      "count": 33,
+      "sourceUrl": "https://olm.vn/api/thu-vien-so/render-list-books?grade=10&role=teacher"
+    },
+    {
+      "grade": 11,
+      "role": "student",
+      "count": 47,
+      "sourceUrl": "https://olm.vn/api/thu-vien-so/render-list-books?grade=11&role=student"
+    },
+    {
+      "grade": 11,
+      "role": "teacher",
+      "count": 34,
+      "sourceUrl": "https://olm.vn/api/thu-vien-so/render-list-books?grade=11&role=teacher"
+    },
+    {
+      "grade": 12,
+      "role": "student",
+      "count": 49,
+      "sourceUrl": "https://olm.vn/api/thu-vien-so/render-list-books?grade=12&role=student"
+    },
+    {
+      "grade": 12,
+      "role": "teacher",
+      "count": 32,
+      "sourceUrl": "https://olm.vn/api/thu-vien-so/render-list-books?grade=12&role=teacher"
+    }
+  ],
+  "books": 552,
+  "pages": 59186,
+  "offlineCompleteBooks": 45,
+  "downloadedPages": 5080,
+  "storedAssets": 6187,
+  "storedBytes": 3921006578,
+  "unavailableBooks": [
+    {
+      "id": "5026872138",
+      "title": "Tiếng Nhật",
+      "grade": 8
+    }
+  ],
+  "metadataOnly": false,
+  "errors": [
+    {
+      "error": "[Errno 2] No such file or directory: '/mnt/data/Node.js/packages/shool-books/data/assets/5204087633/cover-first-27f234d7c005.png'"
+    },
+    {
+      "error": "[Errno 2] No such file or directory: '/mnt/data/Node.js/packages/shool-books/data/assets/5223994188/cover-first-ee4407447b84.png'"
+    },
+    {
+      "error": "[Errno 2] No such file or directory: '/mnt/data/Node.js/packages/shool-books/data/assets/5306978892/cover-first-7b19e402890c.png'"
+    },
+    {
+      "error": "[Errno 2] No such file or directory: '/mnt/data/Node.js/packages/shool-books/data/assets/5202250669/cover-first-586b24b13232.png'"
+    },
+    {
+      "error": "Interrupted; downloaded files are preserved. Rerun to resume."
+    }
+  ]
+}

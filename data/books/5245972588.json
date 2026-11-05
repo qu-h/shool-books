@@ -1,0 +1,108 @@
+{
+  "sourceUrl": "https://olm.vn/thu-vien-so/doc-sach/bang-thuat-ngu-song-ngu-toan-8-tap-1.5245972588",
+  "coverSource": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1015/5245972588-page-1-1792030068952.png",
+  "title": "Bảng thuật ngữ song ngữ toán 8 tập 1",
+  "id": "5245972588",
+  "grade": 8,
+  "role": "student",
+  "totalPages": 20,
+  "downloadEnabled": false,
+  "pages": [
+    {
+      "number": 1,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1015/5245972588-page-2-1792030069613.png"
+    },
+    {
+      "number": 2,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1015/5245972588-page-3-1792030069859.png"
+    },
+    {
+      "number": 3,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1015/5245972588-page-4-1792030070094.png"
+    },
+    {
+      "number": 4,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1015/5245972588-page-5-1792030070337.png"
+    },
+    {
+      "number": 5,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1015/5245972588-page-6-1792030070587.png"
+    },
+    {
+      "number": 6,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1015/5245972588-page-7-1792030070835.png"
+    },
+    {
+      "number": 7,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1015/5245972588-page-8-1792030071164.png"
+    },
+    {
+      "number": 8,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1015/5245972588-page-9-1792030071454.png"
+    },
+    {
+      "number": 9,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1015/5245972588-page-10-1792030071693.png"
+    },
+    {
+      "number": 10,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1015/5245972588-page-11-1792030071961.png"
+    },
+    {
+      "number": 11,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1015/5245972588-page-12-1792030072218.png"
+    },
+    {
+      "number": 12,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1015/5245972588-page-13-1792030072450.png"
+    },
+    {
+      "number": 13,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1015/5245972588-page-14-1792030072695.png"
+    },
+    {
+      "number": 14,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1015/5245972588-page-15-1792030072958.png"
+    },
+    {
+      "number": 15,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1015/5245972588-page-16-1792030073207.png"
+    },
+    {
+      "number": 16,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1015/5245972588-page-17-1792030073490.png"
+    },
+    {
+      "number": 17,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1015/5245972588-page-18-1792030073773.png"
+    },
+    {
+      "number": 18,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1015/5245972588-page-19-1792030074035.png"
+    },
+    {
+      "number": 19,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1015/5245972588-page-20-1792030074385.png"
+    },
+    {
+      "number": 20,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1015/5245972588-page-21-1792030074666.png"
+    }
+  ],
+  "covers": {
+    "first": {
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1015/5245972588-page-1-1792030068952.png",
+      "path": "assets/5245972588/cover-first-7e14d4c14d2d.png",
+      "bytes": 1799248,
+      "sha256": "c35ee9140b34ebf20efd9ac18a617010d292dd6a333cf1cced0859e7a2d9ec95"
+    },
+    "last": {
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1015/5245972588-page-22-1792030074837.png",
+      "path": "assets/5245972588/cover-last-738b79757191.png",
+      "bytes": 331,
+      "sha256": "13f57ee8ef4db53690a5161cee8d3b13dcf811deac22951e3350c6b79a56903a"
+    }
+  },
+  "metadataComplete": true,
+  "offlineComplete": false
+}

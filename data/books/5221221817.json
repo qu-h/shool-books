@@ -1,0 +1,84 @@
+{
+  "sourceUrl": "https://olm.vn/thu-vien-so/doc-sach/bang-thuat-ngu-song-ngu-toan-2.5221221817",
+  "coverSource": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1005/5221221817-page-1-1791189377727.png",
+  "title": "Bảng thuật ngữ song ngữ Toán 2",
+  "id": "5221221817",
+  "grade": 2,
+  "role": "student",
+  "totalPages": 8,
+  "downloadEnabled": false,
+  "pages": [
+    {
+      "number": 1,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1005/5221221817-page-2-1791189378277.png",
+      "path": "assets/5221221817/page-0001-7c7592b5bf72.png",
+      "bytes": 198775,
+      "sha256": "35441de087bc7efdd0de8fccbe9cf4f78b7bc3d3bfd6246e6db8c9d41fcb7fdc"
+    },
+    {
+      "number": 2,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1005/5221221817-page-3-1791189378709.png",
+      "path": "assets/5221221817/page-0002-da42e82232a0.png",
+      "bytes": 436988,
+      "sha256": "1c0281107d14e3bade133f67b630e26daa320011e051d1ec573d26b8d1e00565"
+    },
+    {
+      "number": 3,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1005/5221221817-page-4-1791189379247.png",
+      "path": "assets/5221221817/page-0003-9048d06f8d06.png",
+      "bytes": 556263,
+      "sha256": "a8a11968845d650daa26794aaa5a9c6b760b6a1e392b54902c4c86c6237711d6"
+    },
+    {
+      "number": 4,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1005/5221221817-page-5-1791189379744.png",
+      "path": "assets/5221221817/page-0004-907a1bd2559a.png",
+      "bytes": 256883,
+      "sha256": "d44c615430e3c96c41fb6c6561d9881c3691aa6599e85817932cf4d26b6a459c"
+    },
+    {
+      "number": 5,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1005/5221221817-page-6-1791189380152.png",
+      "path": "assets/5221221817/page-0005-e7d4a39a32af.png",
+      "bytes": 527749,
+      "sha256": "8e7e4aaf08898b0b68078e13d631760991e463edf55672680bcf807c3dc876ea"
+    },
+    {
+      "number": 6,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1005/5221221817-page-7-1791189380531.png",
+      "path": "assets/5221221817/page-0006-a52c059fc040.png",
+      "bytes": 545154,
+      "sha256": "c225d51bed951a92613360a381345c3d187fb3ae3e0733168f0a049606195183"
+    },
+    {
+      "number": 7,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1005/5221221817-page-8-1791189380958.png",
+      "path": "assets/5221221817/page-0007-e0fcb8db188c.png",
+      "bytes": 432644,
+      "sha256": "fb66e397c10d004ed0087b1253cfd6a063e172984847603180419d8902dcdfae"
+    },
+    {
+      "number": 8,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1005/5221221817-page-9-1791189381354.png",
+      "path": "assets/5221221817/page-0008-483346ab68a4.png",
+      "bytes": 541558,
+      "sha256": "8e008256d08a777a67a7d36ad1340f494f2e68db4ab3b6d090615b1e98ebead7"
+    }
+  ],
+  "covers": {
+    "first": {
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1005/5221221817-page-1-1791189377727.png",
+      "path": "assets/5221221817/cover-first-ac960e97f2f3.png",
+      "bytes": 2021276,
+      "sha256": "428da8681655b809df7b8c3043250e7f7e39d29144fd7909e098e7f9e5422e19"
+    },
+    "last": {
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/1005/5221221817-page-10-1791189381527.png",
+      "path": "assets/5221221817/cover-last-bc356158f877.png",
+      "bytes": 339,
+      "sha256": "cd8c07451c73dd0862cd05c13aa463534fd59ae82943bbb30de916187091e502"
+    }
+  },
+  "metadataComplete": true,
+  "offlineComplete": true
+}

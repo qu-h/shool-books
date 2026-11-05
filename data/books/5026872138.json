@@ -1,0 +1,21 @@
+{
+  "sourceUrl": "https://olm.vn/thu-vien-so/doc-sach/tieng-nhat.5026872138",
+  "coverSource": "https://olm.vn/digitallibrary/images/default/no-thumbnail.png",
+  "title": "Tiếng Nhật",
+  "id": "5026872138",
+  "grade": 8,
+  "role": "student",
+  "totalPages": 0,
+  "downloadEnabled": true,
+  "pages": [],
+  "covers": {
+    "first": {
+      "sourceUrl": "https://olm.vn/digitallibrary/images/default/no-thumbnail.png",
+      "path": "assets/5026872138/cover-first-8874ada47b85.png",
+      "bytes": 1532575,
+      "sha256": "a06d96a7508e27f005479b000cc304be8dacf3cbe6f422b049956b0c48291f39"
+    }
+  },
+  "metadataComplete": false,
+  "offlineComplete": false
+}

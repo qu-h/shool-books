@@ -1,0 +1,1260 @@
+{
+  "sourceUrl": "https://olm.vn/thu-vien-so/doc-sach/shs-tieng-viet-tap-2.4502740177",
+  "coverSource": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/f4502740177-cover-first-1777344495704.png",
+  "title": "SGK - Tiếng Việt 1, tập hai",
+  "id": "4502740177",
+  "grade": 1,
+  "role": "student",
+  "totalPages": 176,
+  "downloadEnabled": true,
+  "pages": [
+    {
+      "number": 1,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-1-1777344263120.png",
+      "path": "assets/4502740177/page-0001-cd5e5a43ae66.png",
+      "bytes": 243997,
+      "sha256": "aa597651a42bbc481a0dffd2f480fb4c9d749ccf2bbe29307d7754c49251f5a0"
+    },
+    {
+      "number": 2,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-2-1777344263301.png",
+      "path": "assets/4502740177/page-0002-3bde4aa252e6.png",
+      "bytes": 267971,
+      "sha256": "1eae14c4f4c756764eacebfc45af1e506a0f6adbfd781675f67491f894bcaae9"
+    },
+    {
+      "number": 3,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-3-1777344263553.png",
+      "path": "assets/4502740177/page-0003-a26c3326de25.png",
+      "bytes": 267949,
+      "sha256": "ee9f3ac1c7737f62526568f60211b79c435355adaf215810b14e66621671becc"
+    },
+    {
+      "number": 4,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-4-1777344263983.png",
+      "path": "assets/4502740177/page-0004-a6b1cce5a731.png",
+      "bytes": 537610,
+      "sha256": "2ac244f8159464deaf8c85a52d9a35ab9aad6a6955ab174d2ebbfbb37d9dd389"
+    },
+    {
+      "number": 5,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-5-1777344264521.png",
+      "path": "assets/4502740177/page-0005-2222fc127aab.png",
+      "bytes": 1391277,
+      "sha256": "9f9bf7392704a8f9eb7defd2bf209ad251631ae2b62bbdb07882a3ba2f05c907"
+    },
+    {
+      "number": 6,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-6-1777344265778.png",
+      "path": "assets/4502740177/page-0006-15a64597fccb.png",
+      "bytes": 611784,
+      "sha256": "d4e81c4119c0f980eadeed455bc2c51f48963df90b3367257e8d69b46afb16b6"
+    },
+    {
+      "number": 7,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-7-1777344267713.png",
+      "path": "assets/4502740177/page-0007-ca959babd2d3.png",
+      "bytes": 1057823,
+      "sha256": "5077cb0125acf4f5bab4a34bcdd1b6eb9fe06e96b5475051b939e35e7e2ae214"
+    },
+    {
+      "number": 8,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-8-1777344269089.png",
+      "path": "assets/4502740177/page-0008-b718afdbbcdb.png",
+      "bytes": 683044,
+      "sha256": "f6db1149b647c62d285f4ba844e7f61e31274990c53563e4602857dfe82c9d8e"
+    },
+    {
+      "number": 9,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-9-1777344271409.png",
+      "path": "assets/4502740177/page-0009-b0e6235c9f24.png",
+      "bytes": 1124021,
+      "sha256": "c545652907b3893d364dcc2ee8f01f01fb3a43198275e48b2fb8b3aa32a0f569"
+    },
+    {
+      "number": 10,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-10-1777344272383.png",
+      "path": "assets/4502740177/page-0010-015ccc17daa5.png",
+      "bytes": 1083052,
+      "sha256": "cca03e168b7aa9cb17a58a6c935b07f5fe0a8ccdb6637fc6ef51a236b0fce188"
+    },
+    {
+      "number": 11,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-11-1777344272758.png",
+      "path": "assets/4502740177/page-0011-b12311a2546b.png",
+      "bytes": 502093,
+      "sha256": "4e80f65020bcdf8076a1e8c7d215ad3506f3b516fbd0c73f0d6db18b6e83b5d4"
+    },
+    {
+      "number": 12,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-12-1777344273582.png",
+      "path": "assets/4502740177/page-0012-616cb6577bda.png",
+      "bytes": 2312672,
+      "sha256": "f78e92178956f53ee66b0401e3797bc9b492b893901423a662dedf8268cefbc4"
+    },
+    {
+      "number": 13,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-13-1777344273954.png",
+      "path": "assets/4502740177/page-0013-44bc90661e40.png",
+      "bytes": 628084,
+      "sha256": "d63c48b1f84feba617517d93274482665576749fdfc1fb09877f5f390da6fd84"
+    },
+    {
+      "number": 14,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-14-1777344274507.png",
+      "path": "assets/4502740177/page-0014-94731d8602fe.png",
+      "bytes": 1737284,
+      "sha256": "0d33b2d765e5662c6f2401dbdd17d6be4468d4e12dd9c12d3daa1968f9ce136d"
+    },
+    {
+      "number": 15,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-15-1777344274995.png",
+      "path": "assets/4502740177/page-0015-059c1c4c206f.png",
+      "bytes": 998283,
+      "sha256": "a6df54f3354691cc52fa3442136ef7be85f218f01b7413011f4771b881c369c3"
+    },
+    {
+      "number": 16,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-16-1777344275587.png",
+      "path": "assets/4502740177/page-0016-cbd31f573e44.png",
+      "bytes": 1422735,
+      "sha256": "a384682923a7c42294600876242afd514894b7168f7d8a8617d71171df42979b"
+    },
+    {
+      "number": 17,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-17-1777344275890.png",
+      "path": "assets/4502740177/page-0017-6b4c3d66c364.png",
+      "bytes": 713686,
+      "sha256": "49806fd9030e465d0065f22be9f2622cbe05d1778a133e194747da7192c1f77c"
+    },
+    {
+      "number": 18,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-18-1777344276342.png",
+      "path": "assets/4502740177/page-0018-9c26438bab8e.png",
+      "bytes": 664918,
+      "sha256": "ae39fb4fc2a783a3243deb9c6f9b4f7ba9fd386e2d0509ac7c103abc69865599"
+    },
+    {
+      "number": 19,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-19-1777344276799.png",
+      "path": "assets/4502740177/page-0019-5be174add3a1.png",
+      "bytes": 878572,
+      "sha256": "b52488843587a1c6203719b44b9995c6b732a33446e1ea62c4d86593c74e4c61"
+    },
+    {
+      "number": 20,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-20-1777344277384.png",
+      "path": "assets/4502740177/page-0020-2ce7ee4b7f64.png",
+      "bytes": 1089671,
+      "sha256": "c18ca1fd511ea535508a50607886992b8c59302cf0624a3742385e4826983672"
+    },
+    {
+      "number": 21,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-21-1777344278034.png",
+      "path": "assets/4502740177/page-0021-adcd3e8b9a46.png",
+      "bytes": 1074310,
+      "sha256": "2cba94fe67244f098d6a86129b9b1a8761576c7a317b5e94b1ef7791c7a5d911"
+    },
+    {
+      "number": 22,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-22-1777344278296.png",
+      "path": "assets/4502740177/page-0022-12307d935a1a.png",
+      "bytes": 1004502,
+      "sha256": "ca6dc02d764da6676d0f543ef013bdae7041909ec7708698aad8fb9d4bce477b"
+    },
+    {
+      "number": 23,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-23-1777344278636.png",
+      "path": "assets/4502740177/page-0023-135b76aa887e.png",
+      "bytes": 829487,
+      "sha256": "13d34844a3a90adf178650ccc6946f8e85ed5db153e219a996fbb65410bd7bc4"
+    },
+    {
+      "number": 24,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-24-1777344279113.png",
+      "path": "assets/4502740177/page-0024-91c045bc827d.png",
+      "bytes": 1088062,
+      "sha256": "504f571345a58749af212e61a64fdb96186a9f5318ffce0236e3037dfd064772"
+    },
+    {
+      "number": 25,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-25-1777344279578.png",
+      "path": "assets/4502740177/page-0025-bbdaeecb6fd6.png",
+      "bytes": 835712,
+      "sha256": "11178c41e543b0c8fadc8e8aef61aaf4b749e2f95fc03d578036db5b8494a759"
+    },
+    {
+      "number": 26,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-26-1777344279996.png",
+      "path": "assets/4502740177/page-0026-e94f13956252.png",
+      "bytes": 774971,
+      "sha256": "4ef891398b2b9292574f1845f6a6dc44b881637397d73334ae98b163ef2b4a06"
+    },
+    {
+      "number": 27,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-27-1777344280317.png",
+      "path": "assets/4502740177/page-0027-7934c9ec0e88.png",
+      "bytes": 688080,
+      "sha256": "0eab9f63ff7d10f977e78dc292991e3b9fef1b18041a578585e4cf99ae6e0f55"
+    },
+    {
+      "number": 28,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-28-1777344280799.png",
+      "path": "assets/4502740177/page-0028-1503fac51295.png",
+      "bytes": 786956,
+      "sha256": "3661bdd0498427031f4d7bfec7ba19917dcf8d8fa31a41989d58d4b9c2bb6fa6"
+    },
+    {
+      "number": 29,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-29-1777344281172.png",
+      "path": "assets/4502740177/page-0029-d443473d7dee.png",
+      "bytes": 1097582,
+      "sha256": "61c697b563a187e11e5ad1c2bda6e390b33342064b777f3c6591540dae2dfe9f"
+    },
+    {
+      "number": 30,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-30-1777344281996.png",
+      "path": "assets/4502740177/page-0030-111d67c8afdf.png",
+      "bytes": 1751795,
+      "sha256": "1a2e4afaa986871a1806256c72b512af20585f3523c60fb8ffc50635cfd7918c"
+    },
+    {
+      "number": 31,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-31-1777344282408.png",
+      "path": "assets/4502740177/page-0031-aa0cc41a9a1e.png",
+      "bytes": 1164994,
+      "sha256": "13f083fd9a37ec0601652979ebad585d9114e72fe1790ccf271231030d97a12f"
+    },
+    {
+      "number": 32,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-32-1777344283037.png",
+      "path": "assets/4502740177/page-0032-1f1cbe472894.png",
+      "bytes": 1460128,
+      "sha256": "ce6e8b32a15d0a5f6daff2a4ef5dfb84f761f28a1b991dbb4ee4659f41f158bb"
+    },
+    {
+      "number": 33,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-33-1777344283374.png",
+      "path": "assets/4502740177/page-0033-7e9073083a88.png",
+      "bytes": 748548,
+      "sha256": "4eedeacb955e2d98544f7f66c3beade3cd6f9ed20de0436989ac924464326f27"
+    },
+    {
+      "number": 34,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-34-1777344283854.png",
+      "path": "assets/4502740177/page-0034-8be1c5650afb.png",
+      "bytes": 1120883,
+      "sha256": "ac6902de2116fdf5068b75cfe042b222102fa46a88b5f5f7724bb7772ee030e7"
+    },
+    {
+      "number": 35,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-35-1777344284298.png",
+      "path": "assets/4502740177/page-0035-a92b5dd45dae.png",
+      "bytes": 490803,
+      "sha256": "25f5cf08fcf4ab9c991b3390ac969522db61fc5813e58b1f8fccec17026d897b"
+    },
+    {
+      "number": 36,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-36-1777344284681.png",
+      "path": "assets/4502740177/page-0036-f3a5d5094bfa.png",
+      "bytes": 871019,
+      "sha256": "69e4c1afa08ca865c1af773fabf1e4e6f8c9f437fd5a10e3789459747d8c3f47"
+    },
+    {
+      "number": 37,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-37-1777344284987.png",
+      "path": "assets/4502740177/page-0037-cdef5fa8cec1.png",
+      "bytes": 781435,
+      "sha256": "76e334fa24661991233a7fb64d4a8d4b77dedef6475b90694aacf43a3be85433"
+    },
+    {
+      "number": 38,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-38-1777344285435.png",
+      "path": "assets/4502740177/page-0038-b6963ca65378.png",
+      "bytes": 688760,
+      "sha256": "b02410516641ce60d181f9e51a650d1d71187dfd91b4c75f5e21558602d39f9a"
+    },
+    {
+      "number": 39,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-39-1777344285680.png",
+      "path": "assets/4502740177/page-0039-3b757f0b357d.png",
+      "bytes": 669096,
+      "sha256": "3b4c02bb3d033c05dd0b17dfb8ad5cfda80294b4ee5284d6ee5ebf8a96987009"
+    },
+    {
+      "number": 40,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-40-1777344286377.png",
+      "path": "assets/4502740177/page-0040-feaf58037a45.png",
+      "bytes": 1211435,
+      "sha256": "bde54dd2b37927af107135c3467dd541d3c2abe6be26ec8aaabdb396c8477628"
+    },
+    {
+      "number": 41,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-41-1777344286826.png",
+      "path": "assets/4502740177/page-0041-1c17e06f1a68.png",
+      "bytes": 1297766,
+      "sha256": "9cb797b891d8423cc7c2de45013bf92fb8272a09ef0bf1219015eff695cc8e52"
+    },
+    {
+      "number": 42,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-42-1777344287247.png",
+      "path": "assets/4502740177/page-0042-14516fc34dd1.png",
+      "bytes": 764412,
+      "sha256": "06119e6447d4e58e7acd3aaf7fba3ee259dede4d9a37c9ffb1a0c697e87596e2"
+    },
+    {
+      "number": 43,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-43-1777344287624.png",
+      "path": "assets/4502740177/page-0043-ef236dbe78ed.png",
+      "bytes": 1041540,
+      "sha256": "b6aaebc4ac87bcc90698f49f294b18ad522fed1b778b79bb498656b2f52c0db9"
+    },
+    {
+      "number": 44,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-44-1777344288180.png",
+      "path": "assets/4502740177/page-0044-bc2b0580ab86.png",
+      "bytes": 1807175,
+      "sha256": "00e86fc797b22098e5b7a3aeac559baf407f9f31bbed29e5249b122c133f389c"
+    },
+    {
+      "number": 45,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-45-1777344288814.png",
+      "path": "assets/4502740177/page-0045-66a073feca15.png",
+      "bytes": 862546,
+      "sha256": "bc509a64d1c9599f71a3e2b8086908abbe79267ab27cfd5c6d3617f1586d70f7"
+    },
+    {
+      "number": 46,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-46-1777344289173.png",
+      "path": "assets/4502740177/page-0046-26111e88241a.png",
+      "bytes": 573672,
+      "sha256": "f3fecffd47d8c6047e735594314e35345bd825bfa4d3e44760c09ad774e325ff"
+    },
+    {
+      "number": 47,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-47-1777344289655.png",
+      "path": "assets/4502740177/page-0047-f8b62662b188.png",
+      "bytes": 895598,
+      "sha256": "9f0a2dbb5a3e0fb374cff915e9740b73564cfea23facea4b27205e0ccce7e6ac"
+    },
+    {
+      "number": 48,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-48-1777344290409.png",
+      "path": "assets/4502740177/page-0048-f50978fb1a34.png",
+      "bytes": 1297455,
+      "sha256": "59fc0355997f247d88245cd2bfa269b03d0050da8b2c7013c0edb88fe86ed688"
+    },
+    {
+      "number": 49,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-49-1777344290694.png",
+      "path": "assets/4502740177/page-0049-4dd8e61f6a29.png",
+      "bytes": 465283,
+      "sha256": "2765ce4dc34b76f4db32cbf22bcc69682e5f993c49ed533bf853f583778c54fb"
+    },
+    {
+      "number": 50,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-50-1777344291189.png",
+      "path": "assets/4502740177/page-0050-0e2bc05667e9.png",
+      "bytes": 773501,
+      "sha256": "64889f5c2262a387eaeffc368cca41793ef0d72b0cde21d289e86a5395aeaa14"
+    },
+    {
+      "number": 51,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-51-1777344291529.png",
+      "path": "assets/4502740177/page-0051-b1461a7127b3.png",
+      "bytes": 645681,
+      "sha256": "0d7444440e61d1eb16de409b2d62948259395e6428c6d43f3d0a004bf9afe820"
+    },
+    {
+      "number": 52,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-52-1777344292090.png",
+      "path": "assets/4502740177/page-0052-67736631d603.png",
+      "bytes": 593560,
+      "sha256": "25c512117659c1b6db6149d7c164c24c2054b1ae4b35e92a9381bbf4b6abf1d2"
+    },
+    {
+      "number": 53,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-53-1777344292417.png",
+      "path": "assets/4502740177/page-0053-aae1a1c12f75.png",
+      "bytes": 656619,
+      "sha256": "e1511d47023840758d2c9fa75fe0f5fd2a81c574ca872014fb3308db5e331b94"
+    },
+    {
+      "number": 54,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-54-1777344293119.png",
+      "path": "assets/4502740177/page-0054-a55472cbcf94.png",
+      "bytes": 1697961,
+      "sha256": "720277bcd67246b448c26907f9213c1d9d529fe3e0da735f54aebdfbbd58be79"
+    },
+    {
+      "number": 55,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-55-1777344293783.png",
+      "path": "assets/4502740177/page-0055-5c36b0a98744.png",
+      "bytes": 1306042,
+      "sha256": "d57c595bb6ef295afb74a20e1659b7414e59801873d7d793038f8a419f7f0fb6"
+    },
+    {
+      "number": 56,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-56-1777344294394.png",
+      "path": "assets/4502740177/page-0056-3b5850a35355.png",
+      "bytes": 1558904,
+      "sha256": "bc9ac0f09c4ca3ed46da055b552fb6c898ff64a897ed2dd23089b9aee46dcb22"
+    },
+    {
+      "number": 57,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-57-1777344294802.png",
+      "path": "assets/4502740177/page-0057-7fda834c38ba.png",
+      "bytes": 1195712,
+      "sha256": "e3504d8635d0d7c2928663c1850ba2f871fcc26f7a48fc82aff97a4edeadb30e"
+    },
+    {
+      "number": 58,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-58-1777344295145.png",
+      "path": "assets/4502740177/page-0058-f11fc6a5f4ad.png",
+      "bytes": 547654,
+      "sha256": "1fdadd7d24c39adc4be423aa228f7c65a26cd1c21865b6d0b4915e222e62a03d"
+    },
+    {
+      "number": 59,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-59-1777344295488.png",
+      "path": "assets/4502740177/page-0059-7b23b0b735f0.png",
+      "bytes": 496982,
+      "sha256": "57aa2b9581137ca6f190bd5838f34835614bd2018164e239fe1bf644d143adf6"
+    },
+    {
+      "number": 60,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-60-1777344296281.png",
+      "path": "assets/4502740177/page-0060-c81d97e41f11.png",
+      "bytes": 1944087,
+      "sha256": "cdbfa55324da5400cbbebda3dc7740c40e23b0f77517ec99ef87ee00daf02de3"
+    },
+    {
+      "number": 61,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-61-1777344296677.png",
+      "path": "assets/4502740177/page-0061-73e264e3749c.png",
+      "bytes": 655865,
+      "sha256": "a676239ab271cc23d69affbb78223f2f3ab24bc474e1af330a0771e78ce525af"
+    },
+    {
+      "number": 62,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-62-1777344297049.png",
+      "path": "assets/4502740177/page-0062-2fbe7a0180e9.png",
+      "bytes": 763241,
+      "sha256": "5f0d8b33fbcfff5412bbdbd52b5af8a961eaa91acbf3e3bc60d79f3f1c5e5dba"
+    },
+    {
+      "number": 63,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-63-1777344297487.png",
+      "path": "assets/4502740177/page-0063-13c23048efa2.png",
+      "bytes": 1498563,
+      "sha256": "894cf31f2f4cbe39c67087e786c783802e81fc0ca2301235479e28e08cf0a8e6"
+    },
+    {
+      "number": 64,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-64-1777344298036.png",
+      "path": "assets/4502740177/page-0064-5212a44df1d2.png",
+      "bytes": 944510,
+      "sha256": "751cdcde3a72e6d5ab228c93c5df9f6c7491740f66a1bbb0029e6a833116b25a"
+    },
+    {
+      "number": 65,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-65-1777344298747.png",
+      "path": "assets/4502740177/page-0065-699008acf84e.png",
+      "bytes": 525183,
+      "sha256": "928aa334152b3ffb669258bb6275a31ee9c57784a961f8addb5e1242a5e45ddf"
+    },
+    {
+      "number": 66,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-66-1777344298897.png",
+      "path": "assets/4502740177/page-0066-730c79ef8dd6.png",
+      "bytes": 529844,
+      "sha256": "8263da9e53c5a20c66e127dc4a409bb6e9170055a98fb19819535e2f694355b5"
+    },
+    {
+      "number": 67,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-67-1777344299177.png",
+      "path": "assets/4502740177/page-0067-72901a125c6a.png",
+      "bytes": 641980,
+      "sha256": "6db622af54f7ea8701bdcaba1f819e46cceeed5b80fe39de518a31242ad1ca7f"
+    },
+    {
+      "number": 68,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-68-1777344299456.png",
+      "path": "assets/4502740177/page-0068-746f0aa19a04.png",
+      "bytes": 1046268,
+      "sha256": "609dee427c73055719856503fff5d651fc675c0ef8f085dcad4238cde0aa90f9"
+    },
+    {
+      "number": 69,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-69-1777344299604.png",
+      "path": "assets/4502740177/page-0069-bc3f126e4c02.png",
+      "bytes": 463867,
+      "sha256": "417d70f3b1b47326e6f51989591162b999f00bb943d41d8dcf04aa3e35c42f16"
+    },
+    {
+      "number": 70,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-70-1777344299932.png",
+      "path": "assets/4502740177/page-0070-d5e438577589.png",
+      "bytes": 990250,
+      "sha256": "6aefc4adff1a57e37e81ca092cf52ee2ed5c97fa3201244759d3f47c3ebb9c04"
+    },
+    {
+      "number": 71,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-71-1777344300298.png",
+      "path": "assets/4502740177/page-0071-077b4ec282cf.png",
+      "bytes": 1237759,
+      "sha256": "af8990eabe25c0e5635ddff3dbf5dedfe1b78a8debf19d14f2ea272fcc04224a"
+    },
+    {
+      "number": 72,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-72-1777344300643.png",
+      "path": "assets/4502740177/page-0072-43fd7be0aea1.png",
+      "bytes": 1268287,
+      "sha256": "e390da27b05a993ec6083e78081a7487f2e775886c5a1703dfa25328d4cb3c15"
+    },
+    {
+      "number": 73,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-73-1777344300805.png",
+      "path": "assets/4502740177/page-0073-f1c8585f4206.png",
+      "bytes": 424318,
+      "sha256": "0b9c2712335883d9fe92ff94fb75480dc389400bad16f307aeb69e5b50f6e940"
+    },
+    {
+      "number": 74,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-74-1777344301254.png",
+      "path": "assets/4502740177/page-0074-16c4617e1aee.png",
+      "bytes": 1194383,
+      "sha256": "e871991533e0cff1b6a3862be973eb5b49bd877b87ea96075a33494391670230"
+    },
+    {
+      "number": 75,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-75-1777344301592.png",
+      "path": "assets/4502740177/page-0075-4927c3f18877.png",
+      "bytes": 1161450,
+      "sha256": "2fb3b839a8a004fb3a036ff9bb4dae42ac9f2aab1d6d07f22c944e0f2d3207c1"
+    },
+    {
+      "number": 76,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-76-1777344301751.png",
+      "path": "assets/4502740177/page-0076-e580a56720e7.png",
+      "bytes": 506515,
+      "sha256": "b111976525d40c7751184feebb22a0b950d0f426554f5b985b5aa96ce4ae09f7"
+    },
+    {
+      "number": 77,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-77-1777344301978.png",
+      "path": "assets/4502740177/page-0077-34c5f1422bc9.png",
+      "bytes": 791605,
+      "sha256": "22f64d28ebf8f46febe53086251fd2d6e771c218b43cdbc4fad8aa64ddbb3fd9"
+    },
+    {
+      "number": 78,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-78-1777344302206.png",
+      "path": "assets/4502740177/page-0078-fa66661ff280.png",
+      "bytes": 632221,
+      "sha256": "47083e7e15980b46c05a865522d1a8e2f93692b1cfda57575a821d7ea0b7e00c"
+    },
+    {
+      "number": 79,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-79-1777344302527.png",
+      "path": "assets/4502740177/page-0079-95232c414b11.png",
+      "bytes": 1190246,
+      "sha256": "4bfcbebf782c3f2fb79e2ed42db1133182a36e06d0f40476cfdcbc3b86fe43c5"
+    },
+    {
+      "number": 80,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-80-1777344302718.png",
+      "path": "assets/4502740177/page-0080-a2d106906106.png",
+      "bytes": 590413,
+      "sha256": "2d03f9408d39ec32a142645869510a44aeccd1592bff4fca03b4a0b7368f0c93"
+    },
+    {
+      "number": 81,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-81-1777344302825.png",
+      "path": "assets/4502740177/page-0081-b31971d71e75.png",
+      "bytes": 204948,
+      "sha256": "5b5fc5893bc345a2cbd7ecfffff3b7120895ecb5f71c5bb8feb2b9b229fb3129"
+    },
+    {
+      "number": 82,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-82-1777344303015.png",
+      "path": "assets/4502740177/page-0082-958e59478a8e.png",
+      "bytes": 348377,
+      "sha256": "e0998b56d9df7dbe2a13a9a71e1f9c990f793494fdfa6e963a28b65bdff719b4"
+    },
+    {
+      "number": 83,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-83-1777344303190.png",
+      "path": "assets/4502740177/page-0083-977b279c87b6.png",
+      "bytes": 506555,
+      "sha256": "5e25f79fab2c3007edab9ec518aab952cb6cc1e2fd39130f54d9d76cdcf1527b"
+    },
+    {
+      "number": 84,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-84-1777344303598.png",
+      "path": "assets/4502740177/page-0084-f516702dffef.png",
+      "bytes": 1731611,
+      "sha256": "6e0cb7e40c6eb17f1fd779bff8efc896aebd0e6554814f2997c1881497d771a0"
+    },
+    {
+      "number": 85,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-85-1777344303884.png",
+      "path": "assets/4502740177/page-0085-fba6b92968d9.png",
+      "bytes": 1093421,
+      "sha256": "a2555e0bc3c1aaa9dc10ec9dad154925719a893e94fb1bde4add2fa956c2d8ff"
+    },
+    {
+      "number": 86,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-86-1777344304146.png",
+      "path": "assets/4502740177/page-0086-0cdf6b39b0c6.png",
+      "bytes": 870515,
+      "sha256": "5bfeb9c1dc477fcb380c994334339f7a2f0facb2b39647ddfa72ae9b93293ad5"
+    },
+    {
+      "number": 87,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-87-1777344304479.png",
+      "path": "assets/4502740177/page-0087-7b92a1785bd9.png",
+      "bytes": 1465039,
+      "sha256": "8f039d4e7d6ed8c3a18c8ad05eeed750d0a14c6ce3bd7b59bf624a2b098d10db"
+    },
+    {
+      "number": 88,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-88-1777344304935.png",
+      "path": "assets/4502740177/page-0088-3fb28d26b3eb.png",
+      "bytes": 1871891,
+      "sha256": "0e7cf6548e7575252fe06ef69c8c087ddabdbc5a0f89aedd566b8a6139aa807f"
+    },
+    {
+      "number": 89,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-89-1777344305207.png",
+      "path": "assets/4502740177/page-0089-d3162cf414b3.png",
+      "bytes": 1185421,
+      "sha256": "42daaebaf005f7085b017364bc66f2f090e6a6950ab17bf3e5e8f35173ef6779"
+    },
+    {
+      "number": 90,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-90-1777344305579.png",
+      "path": "assets/4502740177/page-0090-e1dd25fe2990.png",
+      "bytes": 1544609,
+      "sha256": "c968f0d2233481f1d22a39f238c0119baae4bac4cfb86288b1e575c34fd10bbc"
+    },
+    {
+      "number": 91,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-91-1777344305937.png",
+      "path": "assets/4502740177/page-0091-c271f70680e7.png",
+      "bytes": 1498204,
+      "sha256": "ae22d23d43d1cfbd264abb0bda1295bbc7c160cc020359d8864ac7feb6db108e"
+    },
+    {
+      "number": 92,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-92-1777344306095.png",
+      "path": "assets/4502740177/page-0092-ddaf113177dc.png",
+      "bytes": 331831,
+      "sha256": "119d8286ca808a93310c34870932db5d6b41e63ea92d62717a1d9f9a3d7c5426"
+    },
+    {
+      "number": 93,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-93-1777344306207.png",
+      "path": "assets/4502740177/page-0093-4413e2529712.png",
+      "bytes": 242390,
+      "sha256": "384d978c882775be20f6f474588576f260fe1225241c612d064fd1322b1ba198"
+    },
+    {
+      "number": 94,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-94-1777344306782.png",
+      "path": "assets/4502740177/page-0094-234a717dbf92.png",
+      "bytes": 2021857,
+      "sha256": "e3d0dcb4060cec4046159f9e2e3f65ed3abf923bafb9d9003090f0eddacaa2d0"
+    },
+    {
+      "number": 95,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-95-1777344307325.png",
+      "path": "assets/4502740177/page-0095-6d487fde774c.png",
+      "bytes": 1253884,
+      "sha256": "17a05856afb35ec831efd88945eec3990e9fdf0c4f7f93c40026cb3019c5f982"
+    },
+    {
+      "number": 96,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-96-1777344307742.png",
+      "path": "assets/4502740177/page-0096-f7ee5ad1fc0b.png",
+      "bytes": 1266346,
+      "sha256": "a4c3d25b29ad588b838692bca8448e9883b2f515e88123159c46186603a42a30"
+    },
+    {
+      "number": 97,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-97-1777344308151.png",
+      "path": "assets/4502740177/page-0097-9fd7c12a3faf.png",
+      "bytes": 1755846,
+      "sha256": "a118623d749c2fe1a8a63d991d5fa08d728dac319de2bb43cef3f81982611f33"
+    },
+    {
+      "number": 98,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-98-1777344313971.png",
+      "path": "assets/4502740177/page-0098-5a48e25342f3.png",
+      "bytes": 2078995,
+      "sha256": "a5c06ec2dbede566ffec17be6db07baf810f8c88962f9cf662f85a0e697c0c37"
+    },
+    {
+      "number": 99,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-99-1777344326270.png",
+      "path": "assets/4502740177/page-0099-362744e47bd2.png",
+      "bytes": 856212,
+      "sha256": "e39d6476b9ea474a080c893b5ce825df7b1cb7d2eeb0938d265583d64bbc8a54"
+    },
+    {
+      "number": 100,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-100-1777344333430.png",
+      "path": "assets/4502740177/page-0100-6da9d0404578.png",
+      "bytes": 952642,
+      "sha256": "b27fcd3433bb2e9b0f40c1b7661d267e4cc677288b904a89f47841209f782cc7"
+    },
+    {
+      "number": 101,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-101-1777344337564.png",
+      "path": "assets/4502740177/page-0101-434e126898fc.png",
+      "bytes": 460698,
+      "sha256": "4bc67134bc46963db61f19f4095dd465a57f88d96848a304f58b8c77b6396e5a"
+    },
+    {
+      "number": 102,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-102-1777344341228.png",
+      "path": "assets/4502740177/page-0102-7899d72e08d3.png",
+      "bytes": 321986,
+      "sha256": "00bff4441d0bb82ce18c72505ebba4d0a973c3612f881d19bb7b88313ba17be3"
+    },
+    {
+      "number": 103,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-103-1777344341440.png",
+      "path": "assets/4502740177/page-0103-6d36a1db4c57.png",
+      "bytes": 736321,
+      "sha256": "fab59ac286e354ccaf510b962a60498bd305605de06055b347d5586be5847a3d"
+    },
+    {
+      "number": 104,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-104-1777344341722.png",
+      "path": "assets/4502740177/page-0104-962fe1cef6c0.png",
+      "bytes": 1174213,
+      "sha256": "e8d485c28527e8fedfab5b00c4557a5af44bdf88e9e1e85996b2f2184629e795"
+    },
+    {
+      "number": 105,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-105-1777344342298.png",
+      "path": "assets/4502740177/page-0105-3d1f5f9d2865.png",
+      "bytes": 1600715,
+      "sha256": "c36edb0b0eaaec9941f1c661d365b40f2ba778d12f6a7d6d7478d9a12a58cc41"
+    },
+    {
+      "number": 106,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-106-1777344342475.png",
+      "path": "assets/4502740177/page-0106-c9c679a7a085.png",
+      "bytes": 506410,
+      "sha256": "00b688f3be856ea27ca13d8028d7fa435ed1d2aeb5405936706c0ebd7334f739"
+    },
+    {
+      "number": 107,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-107-1777344342719.png",
+      "path": "assets/4502740177/page-0107-57d2db59f27c.png",
+      "bytes": 808483,
+      "sha256": "52d19bcca6bbf545fb78d7c6ac9ce39eeb58728ceb8ea77bf11fe4ee36e123b6"
+    },
+    {
+      "number": 108,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-108-1777344343222.png",
+      "path": "assets/4502740177/page-0108-9d2795f5834c.png",
+      "bytes": 1862326,
+      "sha256": "4277fa5d05cfe765db410a9a29e3bf16c209a3e58a5753731afcd8a759384e74"
+    },
+    {
+      "number": 109,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-109-1777344343368.png",
+      "path": "assets/4502740177/page-0109-92134607a5ec.png",
+      "bytes": 227041,
+      "sha256": "42b161805073942261cee8e5b959e69eba76cd6909bad9f31bca8f1d11a8e2a9"
+    },
+    {
+      "number": 110,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-110-1777344343603.png",
+      "path": "assets/4502740177/page-0110-83d67f1f36c3.png",
+      "bytes": 853478,
+      "sha256": "630282bd9ea404e3fd67a545ac2ffb3e596dcae624580b886c99dc3ccfd0326a"
+    },
+    {
+      "number": 111,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-111-1777344344078.png",
+      "path": "assets/4502740177/page-0111-3ff8749d0c7d.png",
+      "bytes": 2255819,
+      "sha256": "edd2db1b8ec3868f9d7b3717bb7f0a4fe15f852b08a99c77960ae37f62fc3362"
+    },
+    {
+      "number": 112,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-112-1777344344271.png",
+      "path": "assets/4502740177/page-0112-268992dc7ef6.png",
+      "bytes": 748583,
+      "sha256": "5c4ca775979d94f960cd5b2215f4c21a5af93d971fa8c5e3dcf78be8cb7afa62"
+    },
+    {
+      "number": 113,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-113-1777344344459.png",
+      "path": "assets/4502740177/page-0113-f89782f55f5f.png",
+      "bytes": 643856,
+      "sha256": "fad07d2a898c7b65af61d204415f49f8af5393789b691111c4fb09fc54c95e14"
+    },
+    {
+      "number": 114,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-114-1777344344997.png",
+      "path": "assets/4502740177/page-0114-2beba1ca78c4.png",
+      "bytes": 2476013,
+      "sha256": "f302c7757b56610672aa9811947b208da4fb542e454620c7c61f5c25d6f01625"
+    },
+    {
+      "number": 115,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-115-1777344345203.png",
+      "path": "assets/4502740177/page-0115-bbf1481c3854.png",
+      "bytes": 596346,
+      "sha256": "af47292c1f245a155dc0665c7ab8a3195e48c359321af5d37392350766ff3974"
+    },
+    {
+      "number": 116,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-116-1777344345679.png",
+      "path": "assets/4502740177/page-0116-a8827a8fa52e.png",
+      "bytes": 2125768,
+      "sha256": "088bdb36a306442b72120e8f5e026913beaff00effa354d59ab99edf58e4eea8"
+    },
+    {
+      "number": 117,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-117-1777344347198.png",
+      "path": "assets/4502740177/page-0117-239cada4b99c.png",
+      "bytes": 694248,
+      "sha256": "663e45d5c1cf517f1fe253b9ee6f6b5e7367496f82ef8e9cc252d15fbdc1d7e6"
+    },
+    {
+      "number": 118,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-118-1777344350468.png",
+      "path": "assets/4502740177/page-0118-d217a3a32514.png",
+      "bytes": 1745369,
+      "sha256": "f5ca1305b7e0ad996c59f559b521dbfa6bbc13995337f75e6fff6a1168720390"
+    },
+    {
+      "number": 119,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-119-1777344352085.png",
+      "path": "assets/4502740177/page-0119-6f64c597d6ab.png",
+      "bytes": 1115174,
+      "sha256": "5b0a7677b85d23770abc12d8bd959b255d344fc9ab4a3d4a8b0cee5e9775efa7"
+    },
+    {
+      "number": 120,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-120-1777344352360.png",
+      "path": "assets/4502740177/page-0120-df6e2829f6ab.png",
+      "bytes": 986717,
+      "sha256": "f86f5ff79beae2da896d1523255da00891a671ba816d64c592440fc5f6aed8d3"
+    },
+    {
+      "number": 121,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-121-1777344352668.png",
+      "path": "assets/4502740177/page-0121-ec92c1bb0de2.png",
+      "bytes": 954501,
+      "sha256": "2c1f09688ada173c980c860a7e7baa5f55571194d2e217901a0d438e2d474ecc"
+    },
+    {
+      "number": 122,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-122-1777344352983.png",
+      "path": "assets/4502740177/page-0122-b6e8651fd6ac.png",
+      "bytes": 544850,
+      "sha256": "84c32eb65337581968bd300daab166c2680aac8294a41ba1502d42163ba273be"
+    },
+    {
+      "number": 123,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-123-1777344353485.png",
+      "path": "assets/4502740177/page-0123-d30637bcc2db.png",
+      "bytes": 2288584,
+      "sha256": "ec687b3a72d5b40a668501bf1109cb5c403ac1f51a8b92f02f7484218dad398e"
+    },
+    {
+      "number": 124,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-124-1777344353794.png",
+      "path": "assets/4502740177/page-0124-a19e5341d3cf.png",
+      "bytes": 1314423,
+      "sha256": "d8ff5b407ecf6f2b502e9a953944960db73bcf32262b706606384ed86f3a63fb"
+    },
+    {
+      "number": 125,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-125-1777344354000.png",
+      "path": "assets/4502740177/page-0125-96a3f0873aa7.png",
+      "bytes": 745830,
+      "sha256": "6303d601bb1205f0711e5df8ad45e2dc9814f315f8d36fa07a07134cac388835"
+    },
+    {
+      "number": 126,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-126-1777344354535.png",
+      "path": "assets/4502740177/page-0126-31cf9b017aa8.png",
+      "bytes": 1797893,
+      "sha256": "2ef9a01919040eb333ff157aa9c1b9b3bc8352625411983fb63bf7691667a1bc"
+    },
+    {
+      "number": 127,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-127-1777344354839.png",
+      "path": "assets/4502740177/page-0127-00c63130116a.png",
+      "bytes": 986998,
+      "sha256": "afeabc12a31563713f88f8babc1141762ca06333b9a8e8d05c6d2c4770c919fc"
+    },
+    {
+      "number": 128,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-128-1777344355255.png",
+      "path": "assets/4502740177/page-0128-6e3e549ed9a8.png",
+      "bytes": 1658801,
+      "sha256": "81e4a85a7d51ba5cfd519edaf6def180ed33f2e25a95738c3a45550ca98bb70f"
+    },
+    {
+      "number": 129,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-129-1777344355579.png",
+      "path": "assets/4502740177/page-0129-e36488d33b5b.png",
+      "bytes": 1245604,
+      "sha256": "ccb13e5a23e1dc5f74162aac6ac3f63e25bba4d417c7c46c7d4219e1108ceb6c"
+    },
+    {
+      "number": 130,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-130-1777344355804.png",
+      "path": "assets/4502740177/page-0130-8f4b3fb0364c.png",
+      "bytes": 558375,
+      "sha256": "29fe37ae8039d084a6de88be95b6f5a066f0b891a3fbdb29bb07fff3bf7498d7"
+    },
+    {
+      "number": 131,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-131-1777344355963.png",
+      "path": "assets/4502740177/page-0131-14c61c47e107.png",
+      "bytes": 534993,
+      "sha256": "5b211724f48fe8313d3343053488436eeda6ddf11b116b374340efbb85e16dd8"
+    },
+    {
+      "number": 132,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-132-1777344356287.png",
+      "path": "assets/4502740177/page-0132-797436ef4c72.png",
+      "bytes": 1218000,
+      "sha256": "538a168e2148c6f291fa106965a8fe88910450f3377bc5321b857be55e8e5a31"
+    },
+    {
+      "number": 133,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-133-1777344356445.png",
+      "path": "assets/4502740177/page-0133-07f4f6bc8dfc.png",
+      "bytes": 503050,
+      "sha256": "8490fe3586b6de7d5f50e58b83868fb0b6d33995995934393fb8700cf4f3f8e8"
+    },
+    {
+      "number": 134,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-134-1777344356948.png",
+      "path": "assets/4502740177/page-0134-60f37fd01614.png",
+      "bytes": 1882743,
+      "sha256": "a88ac8ec35e5065a2de779f5d3b2047dc5506e895b282b82712687bf6d523bda"
+    },
+    {
+      "number": 135,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-135-1777344357257.png",
+      "path": "assets/4502740177/page-0135-b807dfca7f23.png",
+      "bytes": 858978,
+      "sha256": "a2d0e653abe830093475098df04e771d8ecaa71319f7a702dbb951dfaea2998d"
+    },
+    {
+      "number": 136,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-136-1777344357553.png",
+      "path": "assets/4502740177/page-0136-4eaf3210cdc0.png",
+      "bytes": 1025467,
+      "sha256": "d210f22361b5d0f02c044b72b5453ab20d6254e60a2f830c258bc673277231fa"
+    },
+    {
+      "number": 137,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-137-1777344357810.png",
+      "path": "assets/4502740177/page-0137-eed87db22244.png",
+      "bytes": 956552,
+      "sha256": "555ae99cea174e858ff9fe153717f304c0e7ef13594e4ce52ad6926c79cf7d76"
+    },
+    {
+      "number": 138,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-138-1777344358561.png",
+      "path": "assets/4502740177/page-0138-1cac3e842a86.png",
+      "bytes": 3203373,
+      "sha256": "63c3077ce0bd420fdf146068efc035bbdeb41780cfecd8586bbfbfcef0197d27"
+    },
+    {
+      "number": 139,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-139-1777344359152.png",
+      "path": "assets/4502740177/page-0139-8d91e244cc8a.png",
+      "bytes": 2192124,
+      "sha256": "663970294e5ff97639a3ed2be0a5d848aa316c70c085d83459a23afb8ce609cc"
+    },
+    {
+      "number": 140,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-140-1777344359978.png",
+      "path": "assets/4502740177/page-0140-edf2172011ee.png",
+      "bytes": 2423160,
+      "sha256": "7fa5a6e395e50b62bdba40e624fb8f76c07dda8783f306bcc88f04d58299af6b"
+    },
+    {
+      "number": 141,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-141-1777344360578.png",
+      "path": "assets/4502740177/page-0141-1f74dabcabc0.png",
+      "bytes": 2324574,
+      "sha256": "ddbb457ba9ff93e94243a732c971533ace8b751f7e1ceee4f195908c79da8ca8"
+    },
+    {
+      "number": 142,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-142-1777344360787.png",
+      "path": "assets/4502740177/page-0142-74037e6b9b23.png",
+      "bytes": 741437,
+      "sha256": "174bf89247b4cff9f0ddeab60374463b882b08a39bf8c82966734040d9946b74"
+    },
+    {
+      "number": 143,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-143-1777344361253.png",
+      "path": "assets/4502740177/page-0143-b8a612e8fcec.png",
+      "bytes": 798949,
+      "sha256": "4bd01ecbf3d1ad281e8432eb70560bd92470411a3d4c78b07098421a7f96db4c"
+    },
+    {
+      "number": 144,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-144-1777344361540.png",
+      "path": "assets/4502740177/page-0144-40dfe45daff7.png",
+      "bytes": 1133620,
+      "sha256": "a662af5f0ee8401780ce0806bf4a4b43cd6e01321b73122504c54e4adbca3267"
+    },
+    {
+      "number": 145,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-145-1777344361921.png",
+      "path": "assets/4502740177/page-0145-a8e4e655e082.png",
+      "bytes": 1495951,
+      "sha256": "bd3eb585b4c170908113a824ef8f32d896f9f64e405e729dadafc2fb14bfe763"
+    },
+    {
+      "number": 146,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-146-1777344362133.png",
+      "path": "assets/4502740177/page-0146-089c16626bd8.png",
+      "bytes": 771055,
+      "sha256": "b29b04f5c0911c6f3a511737c39fe7e40cbfa29230a94a6079210c9916dd634e"
+    },
+    {
+      "number": 147,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-147-1777344362318.png",
+      "path": "assets/4502740177/page-0147-d14ef14d0d7e.png",
+      "bytes": 188943,
+      "sha256": "431b41041c82810871885b64a312c2801ec64c46fbb5535fba4465c90457e9c0"
+    },
+    {
+      "number": 148,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-148-1777344362556.png",
+      "path": "assets/4502740177/page-0148-e45194ded0a1.png",
+      "bytes": 900481,
+      "sha256": "a6af03760a8e8bbfdd83f667890eced42036e50d5a4aa4a6c114013fb3fd0239"
+    },
+    {
+      "number": 149,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-149-1777344362890.png",
+      "path": "assets/4502740177/page-0149-1676105f36fc.png",
+      "bytes": 1300100,
+      "sha256": "9c5094278e885e812a16ff4ecad2f8928220f1e4126f460b33da557b5162cef0"
+    },
+    {
+      "number": 150,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-150-1777344363097.png",
+      "path": "assets/4502740177/page-0150-693092092940.png",
+      "bytes": 558799,
+      "sha256": "073f7261a490a615ad41292da19e9fa7cc5a4a9c588769f3b1c3499bfee656c8"
+    },
+    {
+      "number": 151,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-151-1777344363316.png",
+      "path": "assets/4502740177/page-0151-a45382fba5dc.png",
+      "bytes": 677071,
+      "sha256": "acfd029e2e56c57dc76220e7f41cb499d23749b8187093dd4fe6e53c2d4a9725"
+    },
+    {
+      "number": 152,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-152-1777344363539.png",
+      "path": "assets/4502740177/page-0152-8dcd3930f3de.png",
+      "bytes": 788628,
+      "sha256": "8513e52b18639e9db5d5fc9b52415270420925f810bef45bfa99f69830fd65d0"
+    },
+    {
+      "number": 153,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-153-1777344363730.png",
+      "path": "assets/4502740177/page-0153-378b55078971.png",
+      "bytes": 561572,
+      "sha256": "7adf7456a6c3468773fc9a2693f857ec921bca980b3262e9916d0a32569e0179"
+    },
+    {
+      "number": 154,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-154-1777344364166.png",
+      "path": "assets/4502740177/page-0154-9fb825c4dc2e.png",
+      "bytes": 1545420,
+      "sha256": "d7d85925d3163d9dd7a594779ac1d10ec6885f955d81b08aef1591c515278aa3"
+    },
+    {
+      "number": 155,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-155-1777344364558.png",
+      "path": "assets/4502740177/page-0155-e20d741dd1f5.png",
+      "bytes": 1389807,
+      "sha256": "a803022be06e0edaf83966049de653788a6854f86dba81ebaff0443a44fd5c45"
+    },
+    {
+      "number": 156,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-156-1777344364951.png",
+      "path": "assets/4502740177/page-0156-47e9003f4bb1.png",
+      "bytes": 1660497,
+      "sha256": "5cf85bdc79b0f112440ff2bd31b8eae3072c432ee9a305b0bbbca4ad3178f6a5"
+    },
+    {
+      "number": 157,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-157-1777344365476.png",
+      "path": "assets/4502740177/page-0157-6996172f7907.png",
+      "bytes": 1318847,
+      "sha256": "04e9640289b1d33a1d450dcb70e51c3cb461e214c692edeea7d0dda945fdd89c"
+    },
+    {
+      "number": 158,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-158-1777344366112.png",
+      "path": "assets/4502740177/page-0158-4d826ad4b82d.png",
+      "bytes": 2454892,
+      "sha256": "1c8a9ef727535e2195706af21662932aa8c298473d4b14ac942d431d9bf78a2f"
+    },
+    {
+      "number": 159,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-159-1777344366608.png",
+      "path": "assets/4502740177/page-0159-46588987048f.png",
+      "bytes": 2183945,
+      "sha256": "542f409f295e991b9eef337eeb939e5aab961c20398006efa8a6b82e11ce67a0"
+    },
+    {
+      "number": 160,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-160-1777344367011.png",
+      "path": "assets/4502740177/page-0160-c22d2425b345.png",
+      "bytes": 887146,
+      "sha256": "0a451db676710d64cbf664cb3e7da814494af1d465923904ee2359df401be639"
+    },
+    {
+      "number": 161,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-161-1777344367339.png",
+      "path": "assets/4502740177/page-0161-2a9c45e7ebc9.png",
+      "bytes": 1214155,
+      "sha256": "ac0e4cedfd4988ecb21c67864b4795ece74c1b1108b7ea5bace63ca9f2bc1719"
+    },
+    {
+      "number": 162,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-162-1777344367847.png",
+      "path": "assets/4502740177/page-0162-310de45f0221.png",
+      "bytes": 2295398,
+      "sha256": "4ccf424a2dfe9f43c354ed31f21b80970c2597c47a855a05d3da4efb808b1a71"
+    },
+    {
+      "number": 163,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-163-1777344368083.png",
+      "path": "assets/4502740177/page-0163-b20b33922d4d.png",
+      "bytes": 947843,
+      "sha256": "15451ad08e21927a913f047beab65864c0e6398f86d96c893bb0844609a52bf3"
+    },
+    {
+      "number": 164,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-164-1777344368305.png",
+      "path": "assets/4502740177/page-0164-a17c119181e4.png",
+      "bytes": 799416,
+      "sha256": "6b46788bedf03854f2f06e5d6ef5d26afa0634dfc77eb2a8cffe5a60c0cc195c"
+    },
+    {
+      "number": 165,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-165-1777344368636.png",
+      "path": "assets/4502740177/page-0165-46d45205c23d.png",
+      "bytes": 1159699,
+      "sha256": "49a4fdc3214b89e246fc100455f0b351fa9842a66cbe8af8d8592d2813e4ef43"
+    },
+    {
+      "number": 166,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-166-1777344368773.png",
+      "path": "assets/4502740177/page-0166-887bb6549241.png",
+      "bytes": 272300,
+      "sha256": "b93c00c76fe93f1170de791dea94026180ad54cc5d43a4ef55fed6a3003e2d1a"
+    },
+    {
+      "number": 167,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-167-1777344369078.png",
+      "path": "assets/4502740177/page-0167-22091b44dd72.png",
+      "bytes": 972862,
+      "sha256": "15e0c1a3b64e720f852a9c492f22245300261f5d8222834f7a8d1452bb22ed97"
+    },
+    {
+      "number": 168,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-168-1777344369272.png",
+      "path": "assets/4502740177/page-0168-d2f282300322.png",
+      "bytes": 297689,
+      "sha256": "efb48f33806db6d5f974c4daa0efcc365de55552f71a44762fd4e1ec157e0f8b"
+    },
+    {
+      "number": 169,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-169-1777344369447.png",
+      "path": "assets/4502740177/page-0169-aa28969fd161.png",
+      "bytes": 452334,
+      "sha256": "da3e9833882c915a58559dc97f53d2793558c0b4c84e640e386ab0cfc24a4a2f"
+    },
+    {
+      "number": 170,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-170-1777344369973.png",
+      "path": "assets/4502740177/page-0170-d4f25ff8b056.png",
+      "bytes": 1633367,
+      "sha256": "8fbd71d3aeceba84c92fa57b02272b84d853dff79f0e7001a4ff58900c30e12c"
+    },
+    {
+      "number": 171,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-171-1777344370396.png",
+      "path": "assets/4502740177/page-0171-ecbc88f2d5bf.png",
+      "bytes": 1766703,
+      "sha256": "51a74ab9a6f8ad88acd9573eb2f7b887cdc33225f097ad0b83b0d83ccf5681d2"
+    },
+    {
+      "number": 172,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-172-1777344370576.png",
+      "path": "assets/4502740177/page-0172-51a0cd476ee3.png",
+      "bytes": 347898,
+      "sha256": "e26fb5d81f6ca7c6822d931e3c9d1f993198be7f4eb46a966e4ccd935f60c32a"
+    },
+    {
+      "number": 173,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-173-1777344370672.png",
+      "path": "assets/4502740177/page-0173-8429e7db12c5.png",
+      "bytes": 268995,
+      "sha256": "54467554d17b7ff1adeb5d65f5123a82dd1d6b8afd5157e0e1e431eebab65339"
+    },
+    {
+      "number": 174,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-174-1777344370771.png",
+      "path": "assets/4502740177/page-0174-10792bfdb135.png",
+      "bytes": 261345,
+      "sha256": "082a333e52260bd29f5920276f9bddff5e84f42e4f9cca8b7cf11ba3fd2a5013"
+    },
+    {
+      "number": 175,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-175-1777344370913.png",
+      "path": "assets/4502740177/page-0175-7cd995c3c7d9.png",
+      "bytes": 141903,
+      "sha256": "3152652dafdeea7181c054d701639d83dbb6c9a9ae72f5d26c116f4a69f24964"
+    },
+    {
+      "number": 176,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/4502740177-page-176-1777344371125.png",
+      "path": "assets/4502740177/page-0176-c48400daf569.png",
+      "bytes": 230741,
+      "sha256": "295b9f6cec9d026e4aff07a8da13b5d7d2349aa624ac483aa380f47707b20405"
+    }
+  ],
+  "covers": {
+    "first": {
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/f4502740177-cover-first-1777344495704.png",
+      "path": "assets/4502740177/cover-first-538def4caa2d.png",
+      "bytes": 1035806,
+      "sha256": "9bfe7f1563bbff0b95b9fe4ede6055dbf36127287cff6300d390fb14fce67708"
+    },
+    "last": {
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0428/f4502740177-cover-last-1777344495468.png",
+      "path": "assets/4502740177/cover-last-5af3c67672ea.png",
+      "bytes": 413807,
+      "sha256": "8c95fe25222c662f58634bd66ed0ad0de5c9433b16d663aa52183fb80c6d9173"
+    }
+  },
+  "metadataComplete": true,
+  "offlineComplete": true
+}

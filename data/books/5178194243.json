@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://olm.vn/thu-vien-so/doc-sach/bang-thuat-ngu-song-ngu-mon-tin-hoc-lop-3.5178194243",
+  "coverSource": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0914/5178194243-page-1-1789362761350.png",
+  "title": "Bảng thuật ngữ song ngữ môn Tin học lớp 3",
+  "id": "5178194243",
+  "grade": 3,
+  "role": "student",
+  "totalPages": 8,
+  "downloadEnabled": false,
+  "pages": [
+    {
+      "number": 1,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0914/5178194243-page-2-1789362761628.png"
+    },
+    {
+      "number": 2,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0914/5178194243-page-3-1789362761858.png"
+    },
+    {
+      "number": 3,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0914/5178194243-page-4-1789362762102.png"
+    },
+    {
+      "number": 4,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0914/5178194243-page-5-1789362762371.png"
+    },
+    {
+      "number": 5,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0914/5178194243-page-6-1789362762629.png"
+    },
+    {
+      "number": 6,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0914/5178194243-page-7-1789362762933.png"
+    },
+    {
+      "number": 7,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0914/5178194243-page-8-1789362763190.png"
+    },
+    {
+      "number": 8,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0914/5178194243-page-9-1789362763462.png"
+    }
+  ],
+  "covers": {
+    "first": {
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0914/5178194243-page-1-1789362761350.png",
+      "path": "assets/5178194243/cover-first-defc5c634fc8.png",
+      "bytes": 4840006,
+      "sha256": "d3a2ee855f6850eff7d5dab1faae446246db6126dc41e83289b26759c9e869e3"
+    },
+    "last": {
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0914/5178194243-page-10-1789362763704.png",
+      "path": "assets/5178194243/cover-last-f9ef8fa5bac2.png",
+      "bytes": 338492,
+      "sha256": "f3347e60c6e6389a765f01cde781bb7432ae57a0db953ad02b4aeae75267b095"
+    }
+  },
+  "metadataComplete": true,
+  "offlineComplete": false
+}

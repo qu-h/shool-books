@@ -1,0 +1,98 @@
+{
+  "sourceUrl": "https://olm.vn/thu-vien-so/doc-sach/bang-thuat-ngu-song-ngu-toan-3.5190210237",
+  "coverSource": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0921/5190210237-page-1-1789983456407.png",
+  "title": "Bảng thuật ngữ song ngữ Toán 3",
+  "id": "5190210237",
+  "grade": 3,
+  "role": "student",
+  "totalPages": 10,
+  "downloadEnabled": false,
+  "pages": [
+    {
+      "number": 1,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0921/5190210237-page-2-1789983456656.png",
+      "path": "assets/5190210237/page-0001-4207fba60968.png",
+      "bytes": 517270,
+      "sha256": "e3e0999f7ae6d39d3a19fefead66729e8cd9c47770d0625aa8e11b292a7d4264"
+    },
+    {
+      "number": 2,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0921/5190210237-page-3-1789983456882.png",
+      "path": "assets/5190210237/page-0002-99eda9f32127.png",
+      "bytes": 344997,
+      "sha256": "3efcded442a02aaf791290c23dcba2ff16c7d2214f110040152034495233d688"
+    },
+    {
+      "number": 3,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0921/5190210237-page-4-1789983457116.png",
+      "path": "assets/5190210237/page-0003-3c1e4187b7d0.png",
+      "bytes": 407336,
+      "sha256": "1432cf5f01752f22e30e21c39752c027f8fffb72c74a9f3c34ff5523023577b2"
+    },
+    {
+      "number": 4,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0921/5190210237-page-5-1789983457343.png",
+      "path": "assets/5190210237/page-0004-087bb822a09e.png",
+      "bytes": 490204,
+      "sha256": "485f11df99b029788df564d9173ad47ec37ae91c91b7210230026299bd498f8e"
+    },
+    {
+      "number": 5,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0921/5190210237-page-6-1789983457569.png",
+      "path": "assets/5190210237/page-0005-09f2c4104296.png",
+      "bytes": 592279,
+      "sha256": "906b5be4218a736259f48656180f336f91ea88cd6e58726b394280352d699188"
+    },
+    {
+      "number": 6,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0921/5190210237-page-7-1789983457808.png",
+      "path": "assets/5190210237/page-0006-faeb9e34f9a5.png",
+      "bytes": 545312,
+      "sha256": "f4fbd60cc15967dd8b309fcff60fb64e19c91b7fb85a1d1d95b9d456cd69b90b"
+    },
+    {
+      "number": 7,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0921/5190210237-page-8-1789983458052.png",
+      "path": "assets/5190210237/page-0007-1a3f65c6904d.png",
+      "bytes": 649687,
+      "sha256": "4b19bbca05758a48ce7fde39e957ff8d6d1c7b82f1fc99ea1d69bd9b5ac7e22e"
+    },
+    {
+      "number": 8,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0921/5190210237-page-9-1789983458308.png",
+      "path": "assets/5190210237/page-0008-694d4bfa0014.png",
+      "bytes": 581313,
+      "sha256": "0f2ecc3451e026933beb5da9d7c814c23cfe7e675e412dd090fd916248d0f15c"
+    },
+    {
+      "number": 9,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0921/5190210237-page-10-1789983458564.png",
+      "path": "assets/5190210237/page-0009-705b04ab5264.png",
+      "bytes": 509505,
+      "sha256": "26eaae8bc45e78a8fb7f162a7a9e46eea44af486d5a65e333866b7cf0be5c67a"
+    },
+    {
+      "number": 10,
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0921/5190210237-page-11-1789983458783.png",
+      "path": "assets/5190210237/page-0010-fa747ed1db9f.png",
+      "bytes": 406027,
+      "sha256": "dadb5a5a76e14f41ad1321f5ced0d746cc7b545a192fb7cf844236cd8e432b1c"
+    }
+  ],
+  "covers": {
+    "first": {
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0921/5190210237-page-1-1789983456407.png",
+      "path": "assets/5190210237/cover-first-93a3aaa87549.png",
+      "bytes": 2082460,
+      "sha256": "9b29abdfcc8befdd3eabc56f10dc531b8045dcac6f3dc925089efde74435f8f1"
+    },
+    "last": {
+      "sourceUrl": "https://cdn3.olm.vn/upload/thuvienso/sgk/2026/0921/5190210237-page-12-1789983458939.png",
+      "path": "assets/5190210237/cover-last-59e078a1797b.png",
+      "bytes": 339,
+      "sha256": "cd8c07451c73dd0862cd05c13aa463534fd59ae82943bbb30de916187091e502"
+    }
+  },
+  "metadataComplete": true,
+  "offlineComplete": true
+}
