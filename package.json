@@ -1,0 +1,61 @@
+{
+  "name": "@nhat-minh/school-books",
+  "version": "0.1.0",
+  "description": "Thư viện sách giáo khoa và trình đọc lật trang độc lập, có tích hợp React.",
+  "type": "module",
+  "sideEffects": [
+    "**/*.css"
+  ],
+  "main": "./src/index.js",
+  "types": "./src/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./src/index.d.ts",
+      "default": "./src/index.js"
+    },
+    "./react": {
+      "types": "./src/react.d.ts",
+      "default": "./src/react.js"
+    },
+    "./styles.css": "./src/styles.css",
+    "./data/catalog.json": "./data/catalog.json",
+    "./data/*": "./data/*"
+  },
+  "files": [
+    "src",
+    "data/catalog.json",
+    "data/books",
+    "data/assets",
+    "data/sync-report.json",
+    "scripts",
+    "examples",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "check": "node --check src/index.js && node --check src/react.js && python3 -m unittest discover -s test -p '*_test.py'",
+    "sync": "python3 scripts/sync_olm.py",
+    "verify:data": "python3 scripts/sync_olm.py --verify --asset-grades 2",
+    "demo": "python3 -m http.server 4187",
+    "test:browser": "node test/browser.mjs",
+    "typecheck": "tsc --noEmit --strict --lib ES2022,DOM --module NodeNext --moduleResolution NodeNext test/types.ts"
+  },
+  "peerDependencies": {
+    "react": ">=18"
+  },
+  "peerDependenciesMeta": {
+    "react": {
+      "optional": true
+    }
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "playwright": "^1.64.1",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "@types/react": "^19.2.0",
+    "typescript": "^5.9.0"
+  }
+}

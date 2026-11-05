@@ -1,0 +1,12 @@
+import { createElement } from 'react';
+import { BookLibrary, BookReader } from '../src/react.js';
+import { createBookLibrary, createBookReader, loadBook, loadCatalog, type Book } from '../src/index.js';
+const book: Book = { id: '1', title: 'Toán', grade: 2, role: 'student', sourceUrl: 'https://olm.vn', totalPages: 1, metadataComplete: true, offlineComplete: true, pages: [{ sourceUrl: 'https://cdn3.olm.vn/a.png', path: 'assets/1/page.png' }], covers: {} };
+createElement(BookLibrary, { baseUrl: '/books/', books: [book], onBookOpen: b => b.pages.length });
+createElement(BookReader, { book, onPageChange: (page, b) => console.log(page, b.title) });
+const mount = document.createElement('div');
+const reader = createBookReader(mount, book);
+reader.goTo(0);
+reader.destroy();
+createBookLibrary(mount, { books: [book] }).destroy();
+loadCatalog().then(entries => loadBook(entries[0]));

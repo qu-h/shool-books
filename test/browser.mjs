@@ -1,0 +1,67 @@
+const { chromium } = await import(process.env.PLAYWRIGHT_MODULE || 'playwright');
+import assert from 'node:assert/strict';
+const browser = await chromium.launch({executablePath:process.env.CHROME_BIN || '/usr/bin/google-chrome', headless:true,args:['--no-sandbox']});
+try {
+ const page = await browser.newPage({viewport:{width:1280,height:900}});
+ const errors=[];page.on('pageerror', e=>errors.push(e.message));
+ await page.goto(`${process.env.BOOKS_DEMO_URL || 'http://127.0.0.1:4187'}/examples/`);
+ await page.waitForSelector('.sb-book-card');
+ assert.equal(await page.locator('.sb-book-card').count(),552);
+ await page.getByRole('searchbox').fill('toan');
+ await page.getByLabel('Chọn lớp').selectOption('2');
+ await page.getByLabel('Loại sách').selectOption('teacher');
+ assert.equal(await page.locator('.sb-book-card').count(),1);
+ await page.screenshot({path:'/tmp/school-books-library.png',fullPage:true});
+ await page.locator('.sb-book-card').click();
+ await page.waitForSelector('.sb-reader .sb-page-image');
+ await page.waitForFunction(()=>document.querySelector('.sb-reader .sb-page-image')?.naturalWidth>0);
+ await page.getByRole('button',{name:'Trang sau',exact:true}).click();
+ await page.waitForFunction(()=>document.querySelector('.sb-reader .sb-page-image')?.naturalWidth>0);
+ await page.screenshot({path:'/tmp/school-books-reader-desktop.png',fullPage:true});
+ await page.getByRole('button',{name:'Trở về thư viện',exact:true}).click();
+ assert.equal(await page.locator('.sb-book-card').count(),1);
+ // Use already downloaded assets for a deterministic, network-independent reader test.
+ await page.evaluate(async()=>{
+   const {createBookReader}=await import('/src/index.js');
+   const src=URL.createObjectURL(new Blob(['<svg xmlns="http://www.w3.org/2000/svg" width="300" height="420"><rect width="300" height="420" fill="#fffaf0"/></svg>'],{type:'image/svg+xml'}));
+   const m=document.createElement('div');m.id='test-reader';document.body.replaceChildren(m);
+   window.reader=createBookReader(m,{id:'fixture',title:'Kiểm thử sách',role:'student',covers:{first:{sourceUrl:src+'#cover'}},pages:Array.from({length:6},(_,i)=>({number:i+1,sourceUrl:src}))},{baseUrl:'/data/',remember:false,allowRemote:true});
+ });
+ assert.equal(await page.locator('.sb-page-input').inputValue(),'1');
+ await page.getByRole('button',{name:'Trang sau',exact:true}).click();
+ assert.equal(await page.locator('.sb-page-input').inputValue(),'2');
+ await page.locator('.sb-reader').focus(); await page.keyboard.press('ArrowRight');
+ assert.equal(await page.locator('.sb-page-input').inputValue(),'4');
+ await page.getByRole('button',{name:'Trang trước',exact:true}).click();
+ assert.equal(await page.locator('.sb-page-input').inputValue(),'2');
+ await page.getByRole('button',{name:'Trang trước',exact:true}).click();
+ assert.equal(await page.locator('.sb-page-input').inputValue(),'1');
+ await page.getByLabel('Đến trang').fill('999');await page.getByLabel('Đến trang').press('Tab');
+ assert.equal(await page.locator('.sb-page-input').inputValue(),'7');
+ assert.equal(await page.getByRole('button',{name:'Trang sau',exact:true}).isDisabled(),true);
+ await page.getByRole('button',{name:'Phóng to',exact:true}).click();
+ assert.equal(await page.locator('.sb-spread').evaluate(n=>n.style.getPropertyValue('--sb-zoom')),'1.25');
+ await page.setViewportSize({width:390,height:844});
+ await page.evaluate(()=>window.reader.goTo(1));
+ assert.equal(await page.locator('.sb-spread').evaluate(n=>n.classList.contains('sb-single')),true);
+ await page.getByRole('button',{name:'Trang sau',exact:true}).click();
+ assert.equal(await page.locator('.sb-page-input').inputValue(),'3');
+ await page.emulateMedia({reducedMotion:'reduce'});
+ await page.getByRole('button',{name:'Trang sau',exact:true}).click();
+ assert.equal(await page.locator('.sb-turning').evaluate(n=>getComputedStyle(n).display),'none');
+ await page.screenshot({path:'/tmp/school-books-reader-mobile.png',fullPage:true});
+ await page.evaluate(()=>window.reader.destroy());assert.equal(await page.locator('.sb-reader').count(),0);
+ await page.evaluate(async()=>{
+   const {createBookReader}=await import('/src/index.js');
+   const root=document.querySelector('#test-reader');
+   const src=URL.createObjectURL(new Blob(['<svg xmlns="http://www.w3.org/2000/svg" width="20" height="30"/>'],{type:'image/svg+xml'}));
+   const book={id:'dedup',title:'Bìa trùng',role:'student',covers:{first:{sourceUrl:src}},pages:[{number:1,sourceUrl:src},{number:2,sourceUrl:src+'#2'}]};
+   const controller=createBookReader(root,book,{allowRemote:true,remember:false});
+   if (root.querySelector('.sb-page-input').max!=='2') throw new Error('Duplicate front cover was not removed');
+   const old=root.querySelector('img');controller.goTo(1);old.dispatchEvent(new Event('error'));
+   if (root.querySelector('.sb-paper-left .sb-missing')) throw new Error('Stale image error replaced the current page');
+   controller.destroy();
+ });
+ assert.deepEqual(errors,[]);
+ console.log('Browser passed: catalogue, Vietnamese search, filters, page bounds, previous/next, keyboard, zoom, mobile, reduced motion, cleanup.');
+} finally {await browser.close()}
