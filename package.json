@@ -32,6 +32,7 @@
     "README.md"
   ],
   "scripts": {
+    "build:pages": "python3 scripts/build_pages.py",
     "test": "node --test test/*.test.js",
     "check": "node --check src/index.js && node --check src/react.js && python3 -m unittest discover -s test -p '*_test.py'",
     "sync": "python3 scripts/sync_olm.py",

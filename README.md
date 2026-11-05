@@ -17,6 +17,52 @@ Mở `http://localhost:4187/examples/`. Demo dùng dữ liệu tại chỗ và k
 
 Trình đọc có chế độ hai trang trên máy tính, một trang trên điện thoại, chuyển trang bằng nút, phím mũi tên hoặc vuốt, nhập vị trí trang, Home/End, phóng to/thu nhỏ, toàn màn hình và ghi nhớ vị trí đọc theo sách. Hiệu ứng tự tắt khi hệ điều hành bật giảm chuyển động. Bìa trùng ảnh trang đầu/cuối được bỏ trùng. Ảnh trang được tải khi cần, không đưa cả cuốn vào DOM.
 
+## Publish dữ liệu và ảnh lên GitHub Pages
+
+Workflow `.github/workflows/pages.yml` tự build và deploy khi push thay đổi dữ liệu, source hoặc cấu hình lên `main`; có thể chạy tay bằng **Actions → Deploy book library to GitHub Pages → Run workflow**.
+
+Thiết lập một lần trên repository `qu-h/shool-books`:
+
+1. Push cấu hình mới và đầy đủ dữ liệu `data/` lên GitHub.
+2. Vào **Settings → Pages → Build and deployment → Source**, chọn **GitHub Actions**.
+3. Chạy workflow và chờ job `deploy` thành công. URL chính xác nằm trong environment `github-pages` của lần chạy.
+
+Với repository hiện tại, URL dự kiến sau deploy:
+
+- Thư viện đọc thử: `https://qu-h.github.io/shool-books/`
+- Danh mục: `https://qu-h.github.io/shool-books/data/catalog.json`
+- Nội dung sách: `https://qu-h.github.io/shool-books/data/books/<id>.json`
+- Ảnh: ghép URL `https://qu-h.github.io/shool-books/data/` với trường `cover` hoặc `path` lấy từ JSON đã publish.
+
+Site khác có thể dùng trực tiếp dữ liệu, không cần chép vào thư mục public:
+
+```tsx
+<BookLibrary baseUrl="https://qu-h.github.io/shool-books/data/" />
+```
+
+Hoặc lấy JSON trong JavaScript:
+
+```js
+const baseUrl = 'https://qu-h.github.io/shool-books/data/';
+const catalog = await fetch(`${baseUrl}catalog.json`).then(response => response.json());
+const book = await fetch(new URL(catalog[0].manifest, baseUrl)).then(response => response.json());
+const coverUrl = new URL(catalog[0].cover, baseUrl).href;
+```
+
+Bản publish đổi ảnh sang **WebP chất lượng 85**, giữ kích thước ảnh, và cập nhật `path`, `cover`, `bytes`, `sha256` theo ảnh đã chuyển. Đây là nén có mất dữ liệu; luôn đọc đường dẫn từ JSON trên Pages thay vì dùng đường dẫn PNG/JPEG của dữ liệu gốc. Dữ liệu gốc không bị thay đổi. Chỉ những ảnh được tham chiếu trong danh mục/manifest được xuất bản; trạng thái sách chưa tải đủ vẫn được giữ nguyên.
+
+GitHub Pages giới hạn site ở 1 GB ([GitHub Docs](https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits)). Script kiểm tra artifact dưới 900 MiB và dừng build nếu vượt ngưỡng, trước khi deploy. Nếu dữ liệu tăng vượt mức này, cần giảm chất lượng ảnh, chia thư viện hoặc chuyển ảnh sang dịch vụ lưu trữ khác. Không tải ảnh mới từ OLM trong workflow; dữ liệu phải có sẵn trong Git.
+
+Build và xem bản publish tại máy:
+
+```sh
+python3 -m pip install -r scripts/requirements-pages.txt
+npm run build:pages
+python3 -m http.server 4188 --directory dist
+```
+
+Mở `http://localhost:4188/`. `dist/` chỉ chứa bản publish và được bỏ qua trong Git. Thư mục HTML nguồn `data/sources/`, báo cáo đồng bộ và công cụ nhập dữ liệu không được đưa lên Pages.
+
 ## Tích hợp React / Next.js
 
 Cài từ thư mục package:
@@ -142,6 +188,8 @@ Mặc định giữ ít nhất 1.024 MiB dung lượng trống, điều chỉnh 
 Nguồn hiện có một mục “Tiếng Nhật” lớp 8 không cung cấp trang nào; manifest giữ `metadataComplete: false`. Nó không ảnh hưởng phạm vi tải lớp 2. Bộ dữ liệu là ảnh trang được nguồn công bố, không tự tạo PDF hoặc gọi là có PDF khi nguồn không cung cấp file đó. Bản quyền nội dung sách thuộc các chủ sở hữu được nguồn công bố; package không thay đổi quyền đối với nội dung.
 
 ## Kiểm thử
+
+Các test build Pages cần Pillow: `python3 -m pip install -r scripts/requirements-pages.txt`.
 
 ```sh
 npm test
